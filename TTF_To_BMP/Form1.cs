@@ -202,6 +202,8 @@ namespace TTF_To_BMP
                     Detection_Proc detectionMgr = new Detection_Proc(letter_last.letter_last_db[i].imagePath[j], "test");
                 }
             }
+
+            MessageBox.Show("변환 완료!!");
         }
 
         private void button2_Click(object sender, EventArgs e)
