@@ -1,0 +1,17 @@
+D:\C_Sharp\TTF_To_BMP\TTF_To_BMP\bin\Debug\net6.0-windows\TTF_To_BMP.exe
+D:\C_Sharp\TTF_To_BMP\TTF_To_BMP\bin\Debug\net6.0-windows\TTF_To_BMP.deps.json
+D:\C_Sharp\TTF_To_BMP\TTF_To_BMP\bin\Debug\net6.0-windows\TTF_To_BMP.runtimeconfig.json
+D:\C_Sharp\TTF_To_BMP\TTF_To_BMP\bin\Debug\net6.0-windows\TTF_To_BMP.dll
+D:\C_Sharp\TTF_To_BMP\TTF_To_BMP\bin\Debug\net6.0-windows\TTF_To_BMP.pdb
+D:\C_Sharp\TTF_To_BMP\TTF_To_BMP\obj\Debug\net6.0-windows\TTF_To_BMP.csproj.AssemblyReference.cache
+D:\C_Sharp\TTF_To_BMP\TTF_To_BMP\obj\Debug\net6.0-windows\TTF_To_BMP.Form1.resources
+D:\C_Sharp\TTF_To_BMP\TTF_To_BMP\obj\Debug\net6.0-windows\TTF_To_BMP.csproj.GenerateResource.cache
+D:\C_Sharp\TTF_To_BMP\TTF_To_BMP\obj\Debug\net6.0-windows\TTF_To_BMP.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp\TTF_To_BMP\TTF_To_BMP\obj\Debug\net6.0-windows\TTF_To_BMP.AssemblyInfoInputs.cache
+D:\C_Sharp\TTF_To_BMP\TTF_To_BMP\obj\Debug\net6.0-windows\TTF_To_BMP.AssemblyInfo.cs
+D:\C_Sharp\TTF_To_BMP\TTF_To_BMP\obj\Debug\net6.0-windows\TTF_To_BMP.csproj.CoreCompileInputs.cache
+D:\C_Sharp\TTF_To_BMP\TTF_To_BMP\obj\Debug\net6.0-windows\TTF_To_BMP.dll
+D:\C_Sharp\TTF_To_BMP\TTF_To_BMP\obj\Debug\net6.0-windows\refint\TTF_To_BMP.dll
+D:\C_Sharp\TTF_To_BMP\TTF_To_BMP\obj\Debug\net6.0-windows\TTF_To_BMP.pdb
+D:\C_Sharp\TTF_To_BMP\TTF_To_BMP\obj\Debug\net6.0-windows\TTF_To_BMP.genruntimeconfig.cache
+D:\C_Sharp\TTF_To_BMP\TTF_To_BMP\obj\Debug\net6.0-windows\ref\TTF_To_BMP.dll
